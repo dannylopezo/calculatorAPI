@@ -1,0 +1,11 @@
+C:\Users\Danny.lopez\source\repos\CalculatorRest\CalculatorRest\bin\Debug\netcoreapp2.0\CalculatorRest.deps.json
+C:\Users\Danny.lopez\source\repos\CalculatorRest\CalculatorRest\bin\Debug\netcoreapp2.0\CalculatorRest.runtimeconfig.json
+C:\Users\Danny.lopez\source\repos\CalculatorRest\CalculatorRest\bin\Debug\netcoreapp2.0\CalculatorRest.runtimeconfig.dev.json
+C:\Users\Danny.lopez\source\repos\CalculatorRest\CalculatorRest\bin\Debug\netcoreapp2.0\CalculatorRest.dll
+C:\Users\Danny.lopez\source\repos\CalculatorRest\CalculatorRest\bin\Debug\netcoreapp2.0\CalculatorRest.pdb
+C:\Users\Danny.lopez\source\repos\CalculatorRest\CalculatorRest\obj\Debug\netcoreapp2.0\CalculatorRest.csprojResolveAssemblyReference.cache
+C:\Users\Danny.lopez\source\repos\CalculatorRest\CalculatorRest\obj\Debug\netcoreapp2.0\CalculatorRest.csproj.CoreCompileInputs.cache
+C:\Users\Danny.lopez\source\repos\CalculatorRest\CalculatorRest\obj\Debug\netcoreapp2.0\CalculatorRest.AssemblyInfoInputs.cache
+C:\Users\Danny.lopez\source\repos\CalculatorRest\CalculatorRest\obj\Debug\netcoreapp2.0\CalculatorRest.AssemblyInfo.cs
+C:\Users\Danny.lopez\source\repos\CalculatorRest\CalculatorRest\obj\Debug\netcoreapp2.0\CalculatorRest.dll
+C:\Users\Danny.lopez\source\repos\CalculatorRest\CalculatorRest\obj\Debug\netcoreapp2.0\CalculatorRest.pdb
